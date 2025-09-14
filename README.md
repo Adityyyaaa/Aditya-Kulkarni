@@ -28,4 +28,4 @@ Let’s connect and talk tech! Feel free to reach out at whyaditya07@gmail.com.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [YourGitHubUsername](https://github.com/Adityyyaaa)
